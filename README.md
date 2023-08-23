@@ -1,6 +1,6 @@
 <h1> CURRICULUM VITAE
 
-<h2> DATOS PERSONALES </h2>
+<h2> DATOS PERSONALES PRUEBA </h2>
 
 
 Nombre Kevin Carrillo Montoya   
