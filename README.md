@@ -3,18 +3,20 @@
 <h2> DATOS PERSONALES </h2>
 
 
-Nombre					Kevin Carrillo Montoya
+Nombre Kevin Carrillo Montoya   
 
 
  <img src="picture.jpg" width=" 100" height="110">
 
 
 
-Nacionalidad					Costarricense
+Nacionalidad     
+Costarricense
 
-Cédula						5-0407-0831
+Cédula 5-0407-0831  
 
-Edad	       31 años
+
+Edad 31 años  
 
 Correo electrónico                                        kcarrillo@inta.go.cr
 
