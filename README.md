@@ -2,9 +2,13 @@
 
 <h2> DATOS PERSONALES </h2>
 
+
 Nombre					Kevin Carrillo Montoya
 
- <img src="picture.jpg" width="100" height="140">
+
+ <img src="picture.jpg" width=" 100" height="110">
+
+
 
 Nacionalidad					Costarricense
 
